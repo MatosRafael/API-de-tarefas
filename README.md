@@ -89,7 +89,7 @@ cd API-de-tarefas
 http://localhost:8080/api/todos
 
 
-# Banco de dados H2
+# 💾 Banco de dados H2
 
 Durante a execução, a aplicação utiliza o banco de dados em memória H2.
 
@@ -105,6 +105,7 @@ Senha: (em branco)
 
 Este projeto é de uso livre.
 Sinta-se à vontade para estudar, modificar e utilizar como base para seus próprios projetos.
+
 
 
 
