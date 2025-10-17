@@ -69,27 +69,27 @@ Essas classes garantem que a API retorne mensagens consistentes e códigos HTTP 
    git clone https://github.com/MatosRafael/todo-api.git
 
 
-##Acesse a pasta do projeto:
+## Acesse a pasta do projeto:
 
 cd API-de-tarefas
 
 
-##Execute o projeto:
+## Execute o projeto:
 
 ./mvnw spring-boot:run
 
 
-##ou, caso use Gradle:
+## ou, caso use Gradle:
 
 ./gradlew bootRun
 
 
-##Acesse a API:
+## Acesse a API:
 
 http://localhost:8080/api/todos
 
 
-#Banco de dados H2
+# Banco de dados H2
 
 Durante a execução, a aplicação utiliza o banco de dados em memória H2.
 
@@ -101,9 +101,10 @@ Usuário: sa
 
 Senha: (em branco)
 
-##📄 Licença
+## 📄 Licença
 
 Este projeto é de uso livre.
 Sinta-se à vontade para estudar, modificar e utilizar como base para seus próprios projetos.
+
 
 
