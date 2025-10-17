@@ -28,3 +28,20 @@ Permite criar, listar, atualizar e deletar tarefas, armazenando informações co
 | **DELETE** | `/api/todos/{id}`    | Exclui uma tarefa pelo ID.          |
 
 
+## 🧩 Exemplo de Objeto JSON
+<img width="527" height="223" alt="image" src="https://github.com/user-attachments/assets/80513552-d1e7-4c08-b5f7-a63a92da15a9" />
+
+## 🛠️ Como rodar o projeto localmente
+
+### Pré-requisitos
+- **Java 17+**
+- **Maven** ou **Gradle** (dependendo do seu setup)
+- **IDE** de sua preferência (IntelliJ, VS Code, Eclipse, etc.)
+
+### Passos para executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/MatosRafael/todo-api.git
+
+
