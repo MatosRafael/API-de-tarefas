@@ -66,7 +66,7 @@ Essas classes garantem que a API retorne mensagens consistentes e códigos HTTP 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MatosRafael/todo-api.git
+   git clone https://github.com/MatosRafael/API-de-tarefas.git
 
 
 ## Acesse a pasta do projeto:
@@ -105,6 +105,7 @@ Senha: (em branco)
 
 Este projeto é de uso livre.
 Sinta-se à vontade para estudar, modificar e utilizar como base para seus próprios projetos.
+
 
 
 
